@@ -5,11 +5,18 @@ Leveraging state-of-the-art techniques in image processing and machine learning,
   Key Components:
 
    1.Image Acquisition and Preprocessing
+   
    2.Feature Extraction
+   
    3.Machine Learning Model
+   
    4.Object Detection
+   
    5.Bounding Box Localization
+   
    6.Tracking and Velocity Estimation
+   
    7.Integration with Vehicle Systems
+   
    8.Performance Evaluation
 
